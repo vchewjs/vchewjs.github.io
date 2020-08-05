@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: vchewjs
+name: vchewjs
+description: Happy together
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/vchewjs
 rss: true
 
 plugins:
