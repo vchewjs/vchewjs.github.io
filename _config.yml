@@ -1,18 +1,18 @@
-# sass:
-#   style: compressed
+sass:
+  style: compressed
 
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "posts"
-#     values:
-#       layout: "post"
-#   -
-#     scope:
-#       path: "assets/img"
-#     values:
-#       image: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "assets/img"
+    values:
+      image: true
 
 # title: vchewjs
 # name: vchewjs
@@ -116,5 +116,16 @@ gitment_client_id: 97fc3fe0fe00168ee985
 gitment_secret: 94368e427a5bc3322d6b938f154d3a554c495ce5
 # --- 评论设置 ---
 
-exclude:	exclude:
-  - new
+plugins:
+  - rouge
+  - kramdown
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+
+exclude:
+  - script
+  - docs
+  - vendor
+  - Gemfile
+  - Gemfile.lock
