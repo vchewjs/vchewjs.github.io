@@ -104,16 +104,16 @@ reward_description: 如果你觉得本文对你有帮助，不妨请我喝杯咖
 
 # --- 评论设置 ---
 # 开启评论，取消下面一行注解，并填写相应评论运营商提供的 id，目前仅支持来必力和 gitment
-comment: true
-# 来必力 uid
-# livere_uid:
-# gitment 用户主，即 GitHub 用户名
-gitment_owner: vchewjs
-# GitHub pages 仓库名，如：vchewjs.github.io
-gitment_repo: vchewjs.github.io
-# gitment 提供的对应 id 和 secret
-gitment_client_id: 97fc3fe0fe00168ee985
-gitment_secret: 94368e427a5bc3322d6b938f154d3a554c495ce5
+# comment: true
+# # 来必力 uid
+# # livere_uid:
+# # gitment 用户主，即 GitHub 用户名
+# gitment_owner: vchewjs
+# # GitHub pages 仓库名，如：vchewjs.github.io
+# gitment_repo: vchewjs.github.io
+# # gitment 提供的对应 id 和 secret
+# gitment_client_id: 97fc3fe0fe00168ee985
+# gitment_secret: 94368e427a5bc3322d6b938f154d3a554c495ce5
 # --- 评论设置 ---
 
 plugins:
