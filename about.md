@@ -4,11 +4,9 @@ title: 关于
 reward: false
 ---
 
-### Minimalism
+### Vchewjs
 
 ---
 
-[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
+前端技术博客个人博客web前端技术的分享，面朝大海总会春暖花开。
 
-[Minimalism]: https://github.com/showzeng/Minimalism
-[Jekyll]: https://jekyllrb.com/
